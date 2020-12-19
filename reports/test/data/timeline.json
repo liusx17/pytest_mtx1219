@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "liusx17111",
+    "children" : [ {
+      "name" : "23752-MainThread",
+      "children" : [ {
+        "name" : "test_login[dic3]",
+        "uid" : "9d4f1d86fbe58446",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655008928,
+          "stop" : 1606655009060,
+          "duration" : 132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'accounts': 'yaoyao', 'pwd': '123456', 'exp': '密码错误'}" ]
+      }, {
+        "name" : "test_login[dic0]",
+        "uid" : "318fb6d27eb127df",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655008433,
+          "stop" : 1606655008633,
+          "duration" : 200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'accounts': 'yaoyao', 'pwd': '', 'exp': '密码格式 6~18 个字符之间'}" ]
+      }, {
+        "name" : "test_pay",
+        "uid" : "133ce5b4aeacbc7e",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655009715,
+          "stop" : 1606655010630,
+          "duration" : 915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_order",
+        "uid" : "24d9eab3c95689cf",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655009208,
+          "stop" : 1606655009399,
+          "duration" : 191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[dic1]",
+        "uid" : "eebfa3641aee0e52",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655008641,
+          "stop" : 1606655008775,
+          "duration" : 134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'accounts': '', 'pwd': 'yaoyao', 'exp': '登录账号有误'}" ]
+      }, {
+        "name" : "test_login[dic2]",
+        "uid" : "df0e7af3de77c0c6",
+        "parentUid" : "aba4f1f1cc3628ed1b57393bb75e861a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606655008781,
+          "stop" : 1606655008921,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'accounts': 'lwx', 'pwd': 'yaoyao', 'exp': '帐号不存在'}" ]
+      } ],
+      "uid" : "aba4f1f1cc3628ed1b57393bb75e861a"
+    } ],
+    "uid" : "9dece8f22af26054c358fe70588ec7e4"
+  } ]
+}

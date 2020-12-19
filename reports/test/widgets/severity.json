@@ -1,0 +1,61 @@
+[ {
+  "uid" : "318fb6d27eb127df",
+  "name" : "test_login[dic0]",
+  "time" : {
+    "start" : 1606655008433,
+    "stop" : 1606655008633,
+    "duration" : 200
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9d4f1d86fbe58446",
+  "name" : "test_login[dic3]",
+  "time" : {
+    "start" : 1606655008928,
+    "stop" : 1606655009060,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "eebfa3641aee0e52",
+  "name" : "test_login[dic1]",
+  "time" : {
+    "start" : 1606655008641,
+    "stop" : 1606655008775,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "24d9eab3c95689cf",
+  "name" : "test_order",
+  "time" : {
+    "start" : 1606655009208,
+    "stop" : 1606655009399,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "133ce5b4aeacbc7e",
+  "name" : "test_pay",
+  "time" : {
+    "start" : 1606655009715,
+    "stop" : 1606655010630,
+    "duration" : 915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df0e7af3de77c0c6",
+  "name" : "test_login[dic2]",
+  "time" : {
+    "start" : 1606655008781,
+    "stop" : 1606655008921,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

@@ -1,0 +1,84 @@
+2020-11-30 18:02:54,259 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:02:54,264 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:02:54,264 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'yaoyao', 'pwd': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:03:15,288 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:03:15,345 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': '', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:03:36,352 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:03:36,412 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'lwx', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:03:57,427 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:03:57,478 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'liushengxian1', 'pwd': '123456'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:04:18,487 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:04:18,540 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:04:18,540 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:04:18,540 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:04:18,540 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:04:18,540 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:04:18,540 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:04:39,556 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:04:39,556 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:05:00,565 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None
+2020-11-30 18:05:00,610 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:05:00,610 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:05:00,610 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:05:00,610 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:05:21,627 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:05:21,627 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:05:21,627 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:05:21,627 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:05:42,637 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None
+2020-11-30 18:10:59,428 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:10:59,429 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:10:59,429 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'yaoyao', 'pwd': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:11:20,437 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:11:20,483 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': '', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:11:41,490 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:11:41,531 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'lwx', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:12:02,557 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:12:02,596 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'liushengxian1', 'pwd': '123456'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:12:23,604 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:12:23,653 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:12:23,653 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:12:23,653 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:12:23,653 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:12:23,653 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:12:23,653 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:12:44,670 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:12:44,671 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:13:05,677 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None
+2020-11-30 18:13:05,723 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:13:05,723 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:13:05,723 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:13:05,723 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:13:26,739 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:13:26,739 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:13:26,739 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:13:26,739 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:13:47,750 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None
+2020-11-30 18:55:32,449 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:55:32,449 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:55:32,450 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'yaoyao', 'pwd': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:55:53,459 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:55:53,506 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': '', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:56:14,514 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:56:14,567 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'lwx', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:56:35,586 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:56:35,628 INFO [root] [apiLogin.py (login:24] - 准备发起login的请求，请求的参数是{'accounts': 'liushengxian1', 'pwd': '123456'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:56:56,637 INFO [root] [apiLogin.py (login:26] - 获取的响应值是<Response [502]>
+2020-11-30 18:56:56,685 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:56:56,685 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:56:56,685 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:56:56,685 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:56:56,685 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:56:56,685 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:57:17,702 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:57:17,703 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:57:38,711 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None
+2020-11-30 18:57:38,756 INFO [root] [apiLogin.py (__init__:12] - 开始获取login的url地址:
+2020-11-30 18:57:38,756 INFO [root] [apiLogin.py (__init__:14] - login的url地址是http://10.74.131.110//mtx/index.php?s=/index/user/login.html
+2020-11-30 18:57:38,756 INFO [root] [apiLogin.py (login_success:36] - 准备发起成功的login的请求:
+2020-11-30 18:57:38,756 INFO [root] [apiLogin.py (login_success:38] - 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+2020-11-30 18:57:59,773 INFO [root] [apiLogin.py (login_success:40] - 成功的请求的响应值是<Response [502]>
+2020-11-30 18:57:59,773 INFO [root] [apiOrder.py (__init__:8] - 开始获取login的url地址
+2020-11-30 18:57:59,773 INFO [root] [apiOrder.py (__init__:10] - 获取login的url地址是http://10.74.131.110//mtx/index.php?s=/index/buy/add.html
+2020-11-30 18:57:59,773 INFO [root] [apiOrder.py (order:26] - 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-30 18:58:17,264 INFO [root] [apiOrder.py (order:28] - 放在公共区域sitting的JUMP_URL是None

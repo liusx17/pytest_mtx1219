@@ -1,0 +1,10 @@
+[32mINFO    [0m root:apiOrder.py:8 开始获取login的url地址
+[32mINFO    [0m root:apiOrder.py:10 获取login的url地址是http://192.168.31.155//mtx/index.php?s=/index/buy/add.html
+[32mINFO    [0m root:apiLogin.py:12 开始获取login的url地址:
+[32mINFO    [0m root:apiLogin.py:14 login的url地址是http://192.168.31.155//mtx/index.php?s=/index/user/login.html
+[32mINFO    [0m root:apiLogin.py:36 准备发起成功的login的请求:
+[32mINFO    [0m root:apiLogin.py:38 成功的请求的data数据是{'accounts': 'liushengxian1', 'pwd': 'liushengxian1'}
+[32mINFO    [0m root:apiLogin.py:40 成功的请求的响应值是<Response [200]>
+[32mINFO    [0m root:apiOrder.py:26 准备发起login的请求，请求的参数是{'goods_id': 1, 'stock': 1, 'buy_type': 'goods', 'address_id': 1290, 'payment_id': 1, 'spec': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+[32mINFO    [0m root:apiOrder.py:28 放在公共区域sitting的JUMP_URL是None
+[32mINFO    [0m root:apiOrder.py:30 获取的响应值是<Response [200]>

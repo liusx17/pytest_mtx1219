@@ -1,0 +1,26 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 29 21:03:28 CST 2020","Sun Nov 29 21:03:28 CST 2020","140","testcase","test_mtx_login","TestLogin","","","test_login[dic2]","
+        data_li是列表套字典的形式用这个测试用例里面的写法
+        :param dic:
+        :return:
+        "
+"passed","Sun Nov 29 21:03:29 CST 2020","Sun Nov 29 21:03:30 CST 2020","915","testcase","test_mtx_pay","TestPay","","","test_pay","
+        测试用例
+        :return:
+        "
+"passed","Sun Nov 29 21:03:28 CST 2020","Sun Nov 29 21:03:28 CST 2020","200","testcase","test_mtx_login","TestLogin","","","test_login[dic0]","
+        data_li是列表套字典的形式用这个测试用例里面的写法
+        :param dic:
+        :return:
+        "
+"passed","Sun Nov 29 21:03:28 CST 2020","Sun Nov 29 21:03:29 CST 2020","132","testcase","test_mtx_login","TestLogin","","","test_login[dic3]","
+        data_li是列表套字典的形式用这个测试用例里面的写法
+        :param dic:
+        :return:
+        "
+"passed","Sun Nov 29 21:03:28 CST 2020","Sun Nov 29 21:03:28 CST 2020","134","testcase","test_mtx_login","TestLogin","","","test_login[dic1]","
+        data_li是列表套字典的形式用这个测试用例里面的写法
+        :param dic:
+        :return:
+        "
+"passed","Sun Nov 29 21:03:29 CST 2020","Sun Nov 29 21:03:29 CST 2020","191","testcase","test_mtx_order","TestOrder","","","test_order",""
